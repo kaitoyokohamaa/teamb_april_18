@@ -1,0 +1,53 @@
+[
+    {
+        "date": "2022/01/27",
+        "total": "100",
+        "backlog": "47",
+        "in-progress": "38",
+        "in-check": "0",
+        "on-review": "7",
+        "done": "7",
+        "total-progress-rate": "7.00%",
+        "eng-progress-rate": "7.00%",
+        "date-to-all-in": "13",
+        "outstanding": "92",
+        "wip": "45",
+        "ideal-progress-rate": "40.91%",
+        "num-testers": "6",
+        "additional-testers": "0"
+    },
+    {
+        "date": "2022/01/28",
+        "total": "104",
+        "backlog": "48",
+        "in-progress": "37",
+        "in-check": "2",
+        "on-review": "6",
+        "done": "10",
+        "total-progress-rate": "9.62%",
+        "eng-progress-rate": "11.54%",
+        "date-to-all-in": "12",
+        "outstanding": "91",
+        "wip": "43",
+        "ideal-progress-rate": "45.45%",
+        "num-testers": "6",
+        "additional-testers": "0"
+    },
+    {
+        "date": "2022/01/31",
+        "total": "113",
+        "backlog": "50",
+        "in-progress": "42",
+        "in-check": "3",
+        "on-review": "6",
+        "done": "11",
+        "total-progress-rate": "9.73%",
+        "eng-progress-rate": "12.39%",
+        "date-to-all-in": "11",
+        "outstanding": "98",
+        "wip": "48",
+        "ideal-progress-rate": "50.00%",
+        "num-testers": "6",
+        "additional-testers": "0"
+    }
+]
